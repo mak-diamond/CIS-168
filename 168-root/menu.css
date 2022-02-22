@@ -1,0 +1,75 @@
+@import url("menu1.css");
+
+header h1{
+	font: bold 3em "Marko One", Georgia, serif; 
+ 	color: purple;
+ 	text-align: center;
+ 	text-shadow: .05em .05em .1em lightslategray;
+ 	border: 15px dotted;
+ 	background: lightcoral;
+ 	padding: 30px;
+
+}
+body{
+	background: linear-gradient(45deg, yellow, transparent 50%, orange), url("rest.jpg") 90% bottom no-repeat;
+	background-repeat: repeat-x repeat-y;
+	background-repeat: no-repeat;
+	background-position: bottom-right;
+	margin: 70px 70px 70px 80px;
+	
+
+
+
+
+
+}
+h2 {
+	font: bold 2em;
+ 	text-transform: uppercase;
+ 	letter-spacing: .5em;
+ 	color: purple;
+ 	text-align: center;
+ 	font: bold, serif;
+ 	border: 15px dotted;
+ 	background: lightcoral;
+ 	padding: 20px;
+}
+
+h4 {
+	text-align: center;
+	color: gray;
+	font-style: italic;
+	font: bold "Marko One", Georgia, serif;
+}
+#info {
+	text-align: center;
+	color: gray;
+	font: bold "Marko One", Georgia, serif;
+
+}
+h3 {
+	font: serif;
+	color: sienna;
+}
+		
+	
+footer{
+	color: red;
+}
+		 
+		
+#new{
+	color: red;
+}
+p{
+	margin-left: 5%;
+	text-align: justify;
+
+}
+i {
+	color: gray;
+	font: bold;
+}
+#star{
+	color: red;
+}
